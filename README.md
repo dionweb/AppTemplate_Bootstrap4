@@ -1,5 +1,5 @@
 # App Template - Bootstrap 4
-?
+
 Responsive landing page built with Bootstrap 4 and Sass.
 
 ## Clone
