@@ -8,7 +8,7 @@
   },
   "author": "Tsentidis Dionysios",
   "license": "MIT",
-  "homepage": "https://dionweb.github.io/apptemplate-bootstrap5/",
+  "homepage": "https://dionweb.github.io/AppTemplate_Bootstrap4/",
   "dependencies": {
     "bootstrap": "4.6.1",
     "font-awesome": "^4.7.0",
